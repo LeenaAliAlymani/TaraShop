@@ -58,8 +58,8 @@ log-in interface will appear.
 4 tables in the taraShop schema ( customer, deliveryAddress, orders, products ).
 
 -- team memmbers:
-leena ali alymani
-Khadija Ali Alajmi
-Norah ALsuhaimi
-Jana Atiah Al-Harthi 
+leena ali alymani,
+Khadija Ali Alajmi,
+Norah ALsuhaimi,
+Jana Atiah Al-Harthi ,
 Jood Hassan Al-Sofyani 
